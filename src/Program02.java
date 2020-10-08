@@ -4,7 +4,6 @@ import java.io.IOException;
 
 public class Program02 {
     public static void main(String[] args) {
-
         /*
         * Código para mostrar o processo de abrir e fechar manualmenre as streams.
         * */
